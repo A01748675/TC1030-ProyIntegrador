@@ -7,8 +7,10 @@
 class MiCatalogo:
     def start(self):
         pass
-        # aqui crea el obejto de tu clase princiapl y ejecuta
+        # aqui crea el objeto de tu clase principal y ejecuta
         # tu aplicación
+
+
 
 
 if __name__ == "__main__":
